@@ -4,7 +4,7 @@
 
 ---
 
-Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories. 
+<!-- Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories. 
   - [LLMs](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) A focused guide to scalable LLM inference using Ray Data, from simple batch execution to advanced pipeline optimization for real-world applications.
   - [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
   - [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
@@ -14,9 +14,9 @@ Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/te
   - [Personal Branding](https://github.com/stars/0-mostafa-rezaee-0/lists/personal-branding) An ATS-optimized resume template and a polished GitHub profile to showcase your skills and story effectively.
   - [In-Progress Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/in-progress-templates) A collection of template repositories currently under development, showcasing experimental features and unfinished implementations.
 
----
+--- -->
 
-## Skills 
+<!-- ## Skills 
 | Skills | Technologies |
 | :--- | :--- |
 | Data Science | [![A/B Testing](https://img.shields.io/badge/-A%2FB%20Testing-05122A?style=flat-square&logo=Python&color=353535)](https://github.com/stars/0-mostafa-rezaee-0/lists/a-b-testing) [![Causal Inference](https://img.shields.io/badge/-Causal%20Inference-05122A?style=flat-square&logo=Python&color=353535)](https://github.com/stars/0-mostafa-rezaee-0/lists/causal-inference) |
@@ -36,30 +36,4 @@ Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/te
 | Image Processing |  [![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat-square&logo=OpenCV&color=353535)](https://opencv.org/)   [![Pillow](https://img.shields.io/badge/-Pillow-05122A?style=flat-square&logo=Python&color=353535)](https://python-pillow.org/)   [![scikit-image](https://img.shields.io/badge/-scikit--image-05122A?style=flat-square&logo=scikit-learn&color=353535)](https://scikit-image.org/)  |
 | Visualization | [![Draw.io](https://img.shields.io/badge/-Draw.io-05122A?style=flat-square&logo=diagrams.net&color=353535)](https://www.diagrams.net/)  [![Visio](https://img.shields.io/badge/-Visio-353535?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/visio/)  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Python&color=353535)](https://matplotlib.org/)   [![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Python&color=353535)](https://seaborn.pydata.org/)   [![ggplot2](https://img.shields.io/badge/-ggplot2-05122A?style=flat-square&logo=R&color=353535)](https://ggplot2.tidyverse.org/)  |
 | ArcGIS | [![ArcGIS](https://img.shields.io/badge/-ArcGIS-05122A?style=flat-square&logo=ArcGIS&color=353535)](https://www.arcgis.com/) |
-| Editors |  [![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat-square&logo=cursor&color=353535)](https://cursor.sh/)  [![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual%20Studio%20Code&color=353535)](https://code.visualstudio.com/)   [![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat-square&logo=Google%20Colab&color=353535)](https://colab.research.google.com/)  [![JupyterLab](https://img.shields.io/badge/-JupyterLab-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535)](https://www.jetbrains.com/pycharm/)  |
-
-
-
-<!--- 
----------------------------------
-Second version with more details:
----------------------------------
-
-## Mostafa Rezaee  &nbsp;&nbsp;&nbsp;   [![Personal Website](https://img.shields.io/badge/-mostafa--mr.com-0070C0?style=flat&link=https://mostafa-mr.com/)](https://mostafa-mr.com/)   [![SaveBirds](https://img.shields.io/badge/-SaveBirds.app-F21030?style=flat&link=https://savebirds.app/)](https://savebirds.app/)   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ)   [![ResearchGate](https://img.shields.io/badge/-blue?label=ResearchGate&style=social&logo=ResearchGate)](https://www.researchgate.net/profile/Mostafa-M-R?ev=hdr_xprf)   [![ORCID](https://img.shields.io/badge/-green?label=ORCID&style=social&logo=ORCID)](https://orcid.org/0000-0002-0849-3650)   [![Twitter Badge](https://img.shields.io/badge/-1da1f2?label=Twitter&style=social&logo=twitter&link=https://twitter.com/Mostafa_MR_)](https://twitter.com/Mostafa_MR_)   [![Gmail](https://img.shields.io/badge/-green?label=Gmail&style=social&logo=Gmail)](mailto:mostafa.mohammadrezaee@gmail.com)   [![GitLab](https://img.shields.io/badge/-green?label=GitLab&style=social&logo=Gitlab)](https://gitlab.com/mostafa-mr)   [![GitHub](https://img.shields.io/badge/-green?label=GitHub&style=social&logo=Github)](https://github.com/mostafa-m-rezaee)     
-
-## My brief CV    
-
-- **Data Science, PhD | AI Scientist**
-
-- **Internship**: I did a summer internship at [Sanofi](https://www.sanofi.com/en/about-us), [Cambridge](https://jobs.sanofi.us/cambridgecrossing), MA, focusing on [Wearable Medical Devices](https://healthnews.com/family-health/healthy-living/wearable-medical-devices-used-in-healthcare/). For my project, I developed a Python package to implement multiple algorithms and run diagnostics. Data preprocessing is also covered. 
-
-- **SaveBirds.app**: www.SaveBirds.app is my Ph.D. project, a Data Science web application that helps manage 40,000 Protected Areas (PAs) across North America. SaveBirds fuels the [US$75 billion](https://www.usgs.gov/centers/eesc/science/north-american-breeding-bird-survey#:~:text=common%20and%20helping-,fuel%20a%20%2475%20billion%20wildlife%20watching%20industry,-.%C2%A0%C2%A0Each%20year%20thousands) wildlife-watching industry indirectly.
-
-- **Bird Atlas Generator**: Developed the first publicly available comprehensive [Bird Atlas Generator](https://savebirds.app/#navbarAtlasGenerator) of North American Breeding Bird Survey data which is available at SaveBirds.
-
-- **Publications**: [30 Publications](https://scholar.google.com/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F4IU8kEHaoIXkdI8DCtulTjxG15pBj_W_YgkqjzSZ88SRWOdxlL4fdsg4SalnTvRjJwIXfiFZjdvk0sdHSxD-_3-dm2rQ&amp;user=jvcCIJYAAAAJ) including 9 Journal articles &amp; 21 full conference papers. Moreover, [6 under-preparation](https://savebirds.app/#navbarFuture) journal articles are outlined at SaveBirds. All the publications are computational studies using modeling and simulation approaches.
-
-- **Recommendations**: Please see my LinkedIn [recommendations](https://mostafa-mr.com/#Recommendations).
-
-## Skills 
---->
+| Editors |  [![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat-square&logo=cursor&color=353535)](https://cursor.sh/)  [![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual%20Studio%20Code&color=353535)](https://code.visualstudio.com/)   [![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat-square&logo=Google%20Colab&color=353535)](https://colab.research.google.com/)  [![JupyterLab](https://img.shields.io/badge/-JupyterLab-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535)](https://www.jetbrains.com/pycharm/)  | -->
