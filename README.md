@@ -1,21 +1,6 @@
-<!---
-```
-********************************************
-*    _______    _             _       _    *
-*   |__   __|  | |           (_)     | |   *
-*      | |_   _| |_ ___  _ __ _  __ _| |   *
-*      | | | | | __/ _ \| '__| |/ _` | |   *
-*      | | |_| | || (_) | |  | | (_| | |   *
-*      |_|\__,_|\__\___/|_|  |_|\__,_|_|   *
-*                                          *
-********************************************
-```
-See the instructions in: Tutorial.md
---->
+## Elias Abou Zeid, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/elias-abou-zeid/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?user=LC4AMoQAAAAJ&hl=en)
 
-## Mostafa Rezaee, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ)    [![SaveBirds](https://img.shields.io/badge/-SaveBirds.app-F21030?style=flat&link=https://savebirds.app/)](https://savebirds.app/)       
-
-### Data Science, Ph.D. | AI Scientist | ML Engineer  
+### Ph.D. | AI Scientist | ML Engineer | Speaker 
 
 ---
 
